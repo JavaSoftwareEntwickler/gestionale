@@ -22,11 +22,11 @@ Il progetto mira a creare una piattaforma gestionale che consenta la gestione ce
 ## **Struttura del Progetto**
 1. **Analisi Funzionale (AF):**
    Include la descrizione dei flussi principali, degli utenti del sistema e dei requisiti funzionali.
-   - File: [Analisi Funzionale (AF)](./Analisi_Funzionale_Shop.docx)
+   - File: [Analisi Funzionale (AF)](./Docs/Analisi_Funzionale_Shop.docx)
 
 2. **Analisi Tecnica (AT):**
    Descrive l'architettura del sistema, le tecnologie utilizzate e la struttura del database.
-   - File: [Analisi Tecnica (AT)](./Analisi_Tecnica.docx)
+   - File: [Analisi Tecnica (AT)](./Docs/Analisi_Tecnica.docx)
 
 3. **Gestione Task:**
    I task del progetto sono gestiti tramite ClickUp.
